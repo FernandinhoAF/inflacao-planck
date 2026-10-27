@@ -1,0 +1,7 @@
+# cadeias brutas do Planck (11 GB) — não vão para o GitHub
+dados_planck/
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
